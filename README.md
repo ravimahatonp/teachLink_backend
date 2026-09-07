@@ -1,18 +1,11 @@
 # TeachLink Backend
 
-[![CI](https://github.com/teachlink/backend/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/teachlink/backend/actions/workflows/ci.yml)
+[![CI](https://github.com/rinafcode/teachLink_backend/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rinafcode/teachLink_backend/actions/workflows/ci.yml)
 [![Coverage](https://img.shields.io/badge/coverage-70%25%20threshold-brightgreen)](#-ci--testing)
 [![Branch Protection](https://img.shields.io/badge/branch%20protection-enabled-blue)](#-branch-protection)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
-## 🚦 Local Validation: Analytics & Cost Tracking
-
-q
-To quickly validate feature analytics and cost tracking end-to-end:
-
-> **Replace** `teachlink/backend` in the badge URLs above with your actual `org/repo` slug once the repository is on GitHub.
-
-**TeachLink** is a decentralized platform for sharing, analyzing, and monetizing knowledge. This is the **NestJS backend API** — the core service powering the TeachLink ecosystem.
+**TeachLink** is a decentralized platform for sharing, analyzing, and monetizing knowledge — technocrats and learners publish and analyze content and earn for it, while learners also earn by completing tasks, competitions, and learning games. This repository is the **NestJS backend API**, the core service powering the TeachLink ecosystem (web, mobile, and the Stellar/Soroban rewards contract).
 
 ---
 
@@ -20,8 +13,8 @@ To quickly validate feature analytics and cost tracking end-to-end:
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/teachlink/backend.git
-cd teachlink_backend
+git clone https://github.com/rinafcode/teachLink_backend.git
+cd teachLink_backend
 pnpm install
 
 # 2. Configure environment
@@ -636,7 +629,7 @@ We welcome contributions from the community! Please follow our guidelines to ens
 
 - 📖 [Documentation](./docs/)
 - 💬 [Telegram Community](https://t.me/teachlinkOD)
-- 🐛 [Report Issues](https://github.com/teachlink/backend/issues)
+- 🐛 [Report Issues](https://github.com/rinafcode/teachLink_backend/issues)
 
 ---
 
